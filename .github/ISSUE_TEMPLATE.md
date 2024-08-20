@@ -1,3 +1,5 @@
+Put the map or mod name in the title of the issue.
+
 ## Description
 
 Please provide a clear and concise description of the issue.
