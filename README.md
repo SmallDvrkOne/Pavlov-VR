@@ -28,19 +28,18 @@ Below is a list of all the maps I've created:
     <p><strong>Description:</strong> A brief description of Map Name X.</p>
 </div>
 
-## 📂 Download and Installation
+## 📂 How to use my maps
 
 To download and install my maps, follow these steps:
 
-1. Go to the [mod.io profile](https://mod.io/u/smalldarkone/).
+1. Go to the [mod.io profile](https://mod.io/u/smalldarkone/) or in game mod browser.
 2. Find the map you want to play.
-3. Click on the download link and follow the instructions.
+3. Click on the download link.
 
 ## 📧 Contact
 
 For any questions or feedback, feel free to reach out to me:
 
-- **Email:** your-email@example.com
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Discord:** smalldarkie
 
 Thank you for checking out my maps!
